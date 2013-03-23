@@ -8,13 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: conkyForecastWU.py 1.0\n"
 "POT-Creation-Date: 2011-12-24 13:18+GMT\n"
-"PO-Revision-Date: 2011-12-24 13:18+GMT\n"
-"Last-Translator: Kaivalagi <m_buck@hotmail.com>\n"
+"PO-Revision-Date: 2013-03-23 13:24+0900\n"
+"Last-Translator: ktkr3d <ktkr3d@gmail.com>\n"
 "Language-Team: Kaivalagi <m_buck@hotmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: conkyForecastWU.py:156
 msgid "Drizzle"
@@ -506,31 +507,31 @@ msgstr ""
 
 #: conkyForecastWU.py:280
 msgid "Mon"
-msgstr ""
+msgstr "月"
 
 #: conkyForecastWU.py:281
 msgid "Tue"
-msgstr ""
+msgstr "火"
 
 #: conkyForecastWU.py:282
 msgid "Wed"
-msgstr ""
+msgstr "水"
 
 #: conkyForecastWU.py:283
 msgid "Thu"
-msgstr ""
+msgstr "木"
 
 #: conkyForecastWU.py:284
 msgid "Fri"
-msgstr ""
+msgstr "金"
 
 #: conkyForecastWU.py:285
 msgid "Sat"
-msgstr ""
+msgstr "土"
 
 #: conkyForecastWU.py:286
 msgid "Sun"
-msgstr ""
+msgstr "日"
 
 #: conkyForecastWU.py:332
 msgid "n/a"
@@ -783,4 +784,3 @@ msgstr ""
 #: conkyForecastWU.py:973
 msgid "in"
 msgstr ""
-
