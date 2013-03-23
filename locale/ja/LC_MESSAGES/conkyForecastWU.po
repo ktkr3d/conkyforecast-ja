@@ -1,0 +1,786 @@
+# i18n translation template file for conkyForecastWU.py
+# The msgstr values require defining for the require language, once populated
+# pass the file back so it can be compiled and used in the script.
+# Copyright (C) 2011 Kaivalagi
+# Kaivalagi <m_buck@hotmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: conkyForecastWU.py 1.0\n"
+"POT-Creation-Date: 2011-12-24 13:18+GMT\n"
+"PO-Revision-Date: 2011-12-24 13:18+GMT\n"
+"Last-Translator: Kaivalagi <m_buck@hotmail.com>\n"
+"Language-Team: Kaivalagi <m_buck@hotmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: conkyForecastWU.py:156
+msgid "Drizzle"
+msgstr ""
+
+#: conkyForecastWU.py:157
+msgid "Rain"
+msgstr ""
+
+#: conkyForecastWU.py:158
+msgid "Snow"
+msgstr ""
+
+#: conkyForecastWU.py:159
+msgid "Snow Grains"
+msgstr ""
+
+#: conkyForecastWU.py:160
+msgid "Ice Crystals"
+msgstr ""
+
+#: conkyForecastWU.py:161
+msgid "Ice Pellets"
+msgstr ""
+
+#: conkyForecastWU.py:162
+msgid "Hail"
+msgstr ""
+
+#: conkyForecastWU.py:163
+msgid "Mist"
+msgstr ""
+
+#: conkyForecastWU.py:164
+msgid "Fog"
+msgstr ""
+
+#: conkyForecastWU.py:165
+msgid "Smoke"
+msgstr ""
+
+#: conkyForecastWU.py:166
+msgid "Volcanic Ash"
+msgstr ""
+
+#: conkyForecastWU.py:167
+msgid "Widespread Dust"
+msgstr ""
+
+#: conkyForecastWU.py:168
+msgid "Sand"
+msgstr ""
+
+#: conkyForecastWU.py:169
+msgid "Haze"
+msgstr ""
+
+#: conkyForecastWU.py:170
+msgid "Spray"
+msgstr ""
+
+#: conkyForecastWU.py:171
+msgid "Dust Whirls"
+msgstr ""
+
+#: conkyForecastWU.py:172
+msgid "Sandstorm"
+msgstr ""
+
+#: conkyForecastWU.py:173
+msgid "Low Drifting Snow"
+msgstr ""
+
+#: conkyForecastWU.py:174
+msgid "Low Drifting Widespread Dust"
+msgstr ""
+
+#: conkyForecastWU.py:175
+msgid "Low Drifting Sand"
+msgstr ""
+
+#: conkyForecastWU.py:176
+msgid "Blowing Snow"
+msgstr ""
+
+#: conkyForecastWU.py:177
+msgid "Blowing Widespread Dust"
+msgstr ""
+
+#: conkyForecastWU.py:178
+msgid "Blowing Sand"
+msgstr ""
+
+#: conkyForecastWU.py:179
+msgid "Rain Mist"
+msgstr ""
+
+#: conkyForecastWU.py:180
+msgid "Rain Showers"
+msgstr ""
+
+#: conkyForecastWU.py:181
+msgid "Snow Showers"
+msgstr ""
+
+#: conkyForecastWU.py:182
+msgid "Ice Pellet Showers"
+msgstr ""
+
+#: conkyForecastWU.py:183
+msgid "Hail Showers"
+msgstr ""
+
+#: conkyForecastWU.py:184
+msgid "Small Hail Showers"
+msgstr ""
+
+#: conkyForecastWU.py:185
+msgid "Thunderstorm"
+msgstr ""
+
+#: conkyForecastWU.py:186
+msgid "Thunderstorms and Rain"
+msgstr ""
+
+#: conkyForecastWU.py:187
+msgid "Thunderstorms and Snow"
+msgstr ""
+
+#: conkyForecastWU.py:188
+msgid "Thunderstorms and Ice Pellets"
+msgstr ""
+
+#: conkyForecastWU.py:189
+msgid "Thunderstorms with Hail"
+msgstr ""
+
+#: conkyForecastWU.py:190
+msgid "Thunderstorms with Small Hail"
+msgstr ""
+
+#: conkyForecastWU.py:191
+msgid "Freezing Drizzle"
+msgstr ""
+
+#: conkyForecastWU.py:192
+msgid "Freezing Rain"
+msgstr ""
+
+#: conkyForecastWU.py:193
+msgid "Freezing Fog"
+msgstr ""
+
+#: conkyForecastWU.py:194
+msgid "Light Drizzle"
+msgstr ""
+
+#: conkyForecastWU.py:195
+msgid "Light Rain"
+msgstr ""
+
+#: conkyForecastWU.py:196
+msgid "Light Snow"
+msgstr ""
+
+#: conkyForecastWU.py:197
+msgid "Light Snow Grains"
+msgstr ""
+
+#: conkyForecastWU.py:198
+msgid "Light Ice Crystals"
+msgstr ""
+
+#: conkyForecastWU.py:199
+msgid "Light Ice Pellets"
+msgstr ""
+
+#: conkyForecastWU.py:200
+msgid "Light Hail"
+msgstr ""
+
+#: conkyForecastWU.py:201
+msgid "Light Mist"
+msgstr ""
+
+#: conkyForecastWU.py:202
+msgid "Light Fog"
+msgstr ""
+
+#: conkyForecastWU.py:203
+msgid "Light Smoke"
+msgstr ""
+
+#: conkyForecastWU.py:204
+msgid "Light Volcanic Ash"
+msgstr ""
+
+#: conkyForecastWU.py:205
+msgid "Light Widespread Dust"
+msgstr ""
+
+#: conkyForecastWU.py:206
+msgid "Light Sand"
+msgstr ""
+
+#: conkyForecastWU.py:207
+msgid "Light Haze"
+msgstr ""
+
+#: conkyForecastWU.py:208
+msgid "Light Spray"
+msgstr ""
+
+#: conkyForecastWU.py:209
+msgid "Light Dust Whirls"
+msgstr ""
+
+#: conkyForecastWU.py:210
+msgid "Light Sandstorm"
+msgstr ""
+
+#: conkyForecastWU.py:211
+msgid "Light Low Drifting Snow"
+msgstr ""
+
+#: conkyForecastWU.py:212
+msgid "Light Low Drifting Widespread Dust"
+msgstr ""
+
+#: conkyForecastWU.py:213
+msgid "Light Low Drifting Sand"
+msgstr ""
+
+#: conkyForecastWU.py:214
+msgid "Light Blowing Snow"
+msgstr ""
+
+#: conkyForecastWU.py:215
+msgid "Light Blowing Widespread Dust"
+msgstr ""
+
+#: conkyForecastWU.py:216
+msgid "Light Blowing Sand"
+msgstr ""
+
+#: conkyForecastWU.py:217
+msgid "Light Rain Mist"
+msgstr ""
+
+#: conkyForecastWU.py:218
+msgid "Light Rain Showers"
+msgstr ""
+
+#: conkyForecastWU.py:219
+msgid "Light Snow Showers"
+msgstr ""
+
+#: conkyForecastWU.py:220
+msgid "Light Ice Pellet Showers"
+msgstr ""
+
+#: conkyForecastWU.py:221
+msgid "Light Hail Showers"
+msgstr ""
+
+#: conkyForecastWU.py:222
+msgid "Light Small Hail Showers"
+msgstr ""
+
+#: conkyForecastWU.py:223
+msgid "Light Thunderstorm"
+msgstr ""
+
+#: conkyForecastWU.py:224
+msgid "Light Thunderstorms and Rain"
+msgstr ""
+
+#: conkyForecastWU.py:225
+msgid "Light Thunderstorms and Snow"
+msgstr ""
+
+#: conkyForecastWU.py:226
+msgid "Light Thunderstorms and Ice Pellets"
+msgstr ""
+
+#: conkyForecastWU.py:227
+msgid "Light Thunderstorms with Hail"
+msgstr ""
+
+#: conkyForecastWU.py:228
+msgid "Light Thunderstorms with Small Hail"
+msgstr ""
+
+#: conkyForecastWU.py:229
+msgid "Light Freezing Drizzle"
+msgstr ""
+
+#: conkyForecastWU.py:230
+msgid "Light Freezing Rain"
+msgstr ""
+
+#: conkyForecastWU.py:231
+msgid "Light Freezing Fog"
+msgstr ""
+
+#: conkyForecastWU.py:232
+msgid "Heavy Drizzle"
+msgstr ""
+
+#: conkyForecastWU.py:233
+msgid "Heavy Rain"
+msgstr ""
+
+#: conkyForecastWU.py:234
+msgid "Heavy Snow"
+msgstr ""
+
+#: conkyForecastWU.py:235
+msgid "Heavy Snow Grains"
+msgstr ""
+
+#: conkyForecastWU.py:236
+msgid "Heavy Ice Crystals"
+msgstr ""
+
+#: conkyForecastWU.py:237
+msgid "Heavy Ice Pellets"
+msgstr ""
+
+#: conkyForecastWU.py:238
+msgid "Heavy Hail"
+msgstr ""
+
+#: conkyForecastWU.py:239
+msgid "Heavy Mist"
+msgstr ""
+
+#: conkyForecastWU.py:240
+msgid "Heavy Fog"
+msgstr ""
+
+#: conkyForecastWU.py:241
+msgid "Heavy Smoke"
+msgstr ""
+
+#: conkyForecastWU.py:242
+msgid "Heavy Volcanic Ash"
+msgstr ""
+
+#: conkyForecastWU.py:243
+msgid "Heavy Widespread Dust"
+msgstr ""
+
+#: conkyForecastWU.py:244
+msgid "Heavy Sand"
+msgstr ""
+
+#: conkyForecastWU.py:245
+msgid "Heavy Haze"
+msgstr ""
+
+#: conkyForecastWU.py:246
+msgid "Heavy Spray"
+msgstr ""
+
+#: conkyForecastWU.py:247
+msgid "Heavy Dust Whirls"
+msgstr ""
+
+#: conkyForecastWU.py:248
+msgid "Heavy Sandstorm"
+msgstr ""
+
+#: conkyForecastWU.py:249
+msgid "Heavy Low Drifting Snow"
+msgstr ""
+
+#: conkyForecastWU.py:250
+msgid "Heavy Low Drifting Widespread Dust"
+msgstr ""
+
+#: conkyForecastWU.py:251
+msgid "Heavy Low Drifting Sand"
+msgstr ""
+
+#: conkyForecastWU.py:252
+msgid "Heavy Blowing Snow"
+msgstr ""
+
+#: conkyForecastWU.py:253
+msgid "Heavy Blowing Widespread Dust"
+msgstr ""
+
+#: conkyForecastWU.py:254
+msgid "Heavy Blowing Sand"
+msgstr ""
+
+#: conkyForecastWU.py:255
+msgid "Heavy Rain Mist"
+msgstr ""
+
+#: conkyForecastWU.py:256
+msgid "Heavy Rain Showers"
+msgstr ""
+
+#: conkyForecastWU.py:257
+msgid "Heavy Snow Showers"
+msgstr ""
+
+#: conkyForecastWU.py:258
+msgid "Heavy Ice Pellet Showers"
+msgstr ""
+
+#: conkyForecastWU.py:259
+msgid "Heavy Hail Showers"
+msgstr ""
+
+#: conkyForecastWU.py:260
+msgid "Heavy Small Hail Showers"
+msgstr ""
+
+#: conkyForecastWU.py:261
+msgid "Heavy Thunderstorm"
+msgstr ""
+
+#: conkyForecastWU.py:262
+msgid "Heavy Thunderstorms and Rain"
+msgstr ""
+
+#: conkyForecastWU.py:263
+msgid "Heavy Thunderstorms and Snow"
+msgstr ""
+
+#: conkyForecastWU.py:264
+msgid "Heavy Thunderstorms and Ice Pellets"
+msgstr ""
+
+#: conkyForecastWU.py:265
+msgid "Heavy Thunderstorms with Hail"
+msgstr ""
+
+#: conkyForecastWU.py:266
+msgid "Heavy Thunderstorms with Small Hail"
+msgstr ""
+
+#: conkyForecastWU.py:267
+msgid "Heavy Freezing Drizzle"
+msgstr ""
+
+#: conkyForecastWU.py:268
+msgid "Heavy Freezing Rain"
+msgstr ""
+
+#: conkyForecastWU.py:269
+msgid "Heavy Freezing Fog"
+msgstr ""
+
+#: conkyForecastWU.py:270
+msgid "Overcast"
+msgstr ""
+
+#: conkyForecastWU.py:271
+msgid "Clear"
+msgstr ""
+
+#: conkyForecastWU.py:272
+msgid "Partly Cloudy"
+msgstr ""
+
+#: conkyForecastWU.py:273
+msgid "Mostly Cloudy"
+msgstr ""
+
+#: conkyForecastWU.py:274
+msgid "Scattered Clouds"
+msgstr ""
+
+#: conkyForecastWU.py:275 conkyForecastWU.py:333 conkyForecastWU.py:675
+#: conkyForecastWU.py:691 conkyForecastWU.py:692 conkyForecastWU.py:693
+#: conkyForecastWU.py:694 conkyForecastWU.py:695 conkyForecastWU.py:696
+#: conkyForecastWU.py:713 conkyForecastWU.py:714 conkyForecastWU.py:715
+#: conkyForecastWU.py:716 conkyForecastWU.py:717
+msgid "N/A"
+msgstr ""
+
+#: conkyForecastWU.py:279
+msgid "Now"
+msgstr ""
+
+#: conkyForecastWU.py:280
+msgid "Mon"
+msgstr ""
+
+#: conkyForecastWU.py:281
+msgid "Tue"
+msgstr ""
+
+#: conkyForecastWU.py:282
+msgid "Wed"
+msgstr ""
+
+#: conkyForecastWU.py:283
+msgid "Thu"
+msgstr ""
+
+#: conkyForecastWU.py:284
+msgid "Fri"
+msgstr ""
+
+#: conkyForecastWU.py:285
+msgid "Sat"
+msgstr ""
+
+#: conkyForecastWU.py:286
+msgid "Sun"
+msgstr ""
+
+#: conkyForecastWU.py:332
+msgid "n/a"
+msgstr ""
+
+#: conkyForecastWU.py:334
+msgid "Not Available"
+msgstr ""
+
+#: conkyForecastWU.py:335
+msgid "unknown"
+msgstr ""
+
+#: conkyForecastWU.py:336
+msgid "NONE"
+msgstr ""
+
+#: conkyForecastWU.py:337
+msgid "day"
+msgstr ""
+
+#: conkyForecastWU.py:338
+msgid "night"
+msgstr ""
+
+#: conkyForecastWU.py:343
+msgid "Extreme"
+msgstr ""
+
+#: conkyForecastWU.py:344
+msgid "Very High"
+msgstr ""
+
+#: conkyForecastWU.py:345
+msgid "High"
+msgstr ""
+
+#: conkyForecastWU.py:347
+msgid "Low"
+msgstr ""
+
+#: conkyForecastWU.py:352
+msgid "Very Low"
+msgstr ""
+
+#: conkyForecastWU.py:353
+msgid "Moderate"
+msgstr ""
+
+#: conkyForecastWU.py:354
+msgid "rising"
+msgstr ""
+
+#: conkyForecastWU.py:355
+msgid "falling"
+msgstr ""
+
+#: conkyForecastWU.py:356
+msgid "steady"
+msgstr ""
+
+#: conkyForecastWU.py:357
+msgid "calm"
+msgstr ""
+
+#: conkyForecastWU.py:363
+msgid "East"
+msgstr ""
+
+#: conkyForecastWU.py:364
+msgid "East Northeast"
+msgstr ""
+
+#: conkyForecastWU.py:365
+msgid "East Southeast"
+msgstr ""
+
+#: conkyForecastWU.py:366
+msgid "North"
+msgstr ""
+
+#: conkyForecastWU.py:367
+msgid "Northeast"
+msgstr ""
+
+#: conkyForecastWU.py:368
+msgid "North Northeast"
+msgstr ""
+
+#: conkyForecastWU.py:369
+msgid "North Northwest"
+msgstr ""
+
+#: conkyForecastWU.py:370
+msgid "Northwest"
+msgstr ""
+
+#: conkyForecastWU.py:371
+msgid "South"
+msgstr ""
+
+#: conkyForecastWU.py:372
+msgid "Southeast"
+msgstr ""
+
+#: conkyForecastWU.py:373
+msgid "South Southeast"
+msgstr ""
+
+#: conkyForecastWU.py:374
+msgid "South Southwest"
+msgstr ""
+
+#: conkyForecastWU.py:375
+msgid "Southwest"
+msgstr ""
+
+#: conkyForecastWU.py:376
+msgid "variable"
+msgstr ""
+
+#: conkyForecastWU.py:377
+msgid "West"
+msgstr ""
+
+#: conkyForecastWU.py:378
+msgid "West Northwest"
+msgstr ""
+
+#: conkyForecastWU.py:379
+msgid "West Southwest"
+msgstr ""
+
+#: conkyForecastWU.py:383
+msgid "E"
+msgstr ""
+
+#: conkyForecastWU.py:384
+msgid "ENE"
+msgstr ""
+
+#: conkyForecastWU.py:385
+msgid "ESE"
+msgstr ""
+
+#: conkyForecastWU.py:386
+msgid "N"
+msgstr ""
+
+#: conkyForecastWU.py:387
+msgid "NE"
+msgstr ""
+
+#: conkyForecastWU.py:388
+msgid "NNE"
+msgstr ""
+
+#: conkyForecastWU.py:389
+msgid "NNW"
+msgstr ""
+
+#: conkyForecastWU.py:390
+msgid "NW"
+msgstr ""
+
+#: conkyForecastWU.py:391
+msgid "S"
+msgstr ""
+
+#: conkyForecastWU.py:392
+msgid "SE"
+msgstr ""
+
+#: conkyForecastWU.py:393
+msgid "SSE"
+msgstr ""
+
+#: conkyForecastWU.py:394
+msgid "SSW"
+msgstr ""
+
+#: conkyForecastWU.py:395
+msgid "SW"
+msgstr ""
+
+#: conkyForecastWU.py:396
+msgid "W"
+msgstr ""
+
+#: conkyForecastWU.py:397
+msgid "WNW"
+msgstr ""
+
+#: conkyForecastWU.py:398
+msgid "WSW"
+msgstr ""
+
+#: conkyForecastWU.py:402
+msgid "Today"
+msgstr ""
+
+#: conkyForecastWU.py:403
+msgid "Monday"
+msgstr ""
+
+#: conkyForecastWU.py:404
+msgid "Tuesday"
+msgstr ""
+
+#: conkyForecastWU.py:405
+msgid "Wednesday"
+msgstr ""
+
+#: conkyForecastWU.py:406
+msgid "Thursday"
+msgstr ""
+
+#: conkyForecastWU.py:407
+msgid "Friday"
+msgstr ""
+
+#: conkyForecastWU.py:408
+msgid "Saturday"
+msgstr ""
+
+#: conkyForecastWU.py:409
+msgid "Sunday"
+msgstr ""
+
+#: conkyForecastWU.py:966
+msgid "kph"
+msgstr ""
+
+#: conkyForecastWU.py:967
+msgid "km"
+msgstr ""
+
+#: conkyForecastWU.py:968
+msgid "mb"
+msgstr ""
+
+#: conkyForecastWU.py:971
+msgid "mph"
+msgstr ""
+
+#: conkyForecastWU.py:972
+msgid "m"
+msgstr ""
+
+#: conkyForecastWU.py:973
+msgid "in"
+msgstr ""
+
