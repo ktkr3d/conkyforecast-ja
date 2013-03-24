@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: conkyForecast.py 1.0\n"
 "POT-Creation-Date: 2008-08-19 19:02+BST\n"
-"PO-Revision-Date: 2013-03-23 13:24+0900\n"
+"PO-Revision-Date: 2013-03-23 22:26+0900\n"
 "Last-Translator: ktkr3d <ktkr3d@gmail.com>\n"
 "Language-Team: Kaivalagi <m_buck@hotmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -16,6 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 "X-Generator: Poedit 1.5.4\n"
+"Language: Ja\n"
 
 #: conkyForecast.py:247
 msgid "Tornado"
@@ -186,7 +187,7 @@ msgstr "しゅう雪"
 
 #: conkyForecast.py:300
 msgid "Now"
-msgstr ""
+msgstr "現在"
 
 #: conkyForecast.py:301
 msgid "Mon"
@@ -299,15 +300,15 @@ msgstr ""
 
 #: conkyForecast.py:536
 msgid "rising"
-msgstr ""
+msgstr "上昇中"
 
 #: conkyForecast.py:537
 msgid "falling"
-msgstr ""
+msgstr "下降中"
 
 #: conkyForecast.py:538
 msgid "steady"
-msgstr ""
+msgstr "一定"
 
 #: conkyForecast.py:539
 msgid "calm"
